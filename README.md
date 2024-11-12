@@ -21,13 +21,16 @@ Running the Project
 To start using this project, follow these steps:
 
 Clone this repository:
-git clone https://github.com/manishtmtmt/blog-management-api.git
+git clone https://github.com/sumangalam17/Blog-management.git
+
 2. Navigate to the project folder using your command line interface:
 
 cd blog-management-api
+
 3. Install the project dependencies by running the following command:
 
 npm install
+
 4. Start the development server with:
 
 npm run dev
