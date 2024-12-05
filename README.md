@@ -25,7 +25,7 @@ git clone https://github.com/sumangalam17/Blog-management.git
 
 2. Navigate to the project folder using your command line interface:
 
-cd blog-management-api
+cd blog-management
 
 3. Install the project dependencies by running the following command:
 
