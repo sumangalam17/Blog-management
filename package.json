@@ -5,7 +5,8 @@
   "main": "app.js",
   "type": "module",
   "scripts": {
-    "star": "node app.js",
+    "start": "node src/route.js",
+    "local": "nodemon src/route.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "sumangalam",
@@ -13,5 +14,8 @@
   "dependencies": {
     "express": "^4.21.1",
     "mongoose": "^8.8.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
   }
 }
